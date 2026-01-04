@@ -1,0 +1,501 @@
+transaction_id,date,region,product_category,customer_segment,units_sold,revenue,cost,discount_applied
+TXN00102,1/1/2023,Europe,Clothing,SMB,2,204.34,114.38,0
+TXN00221,1/3/2023,Middle East,Furniture,Government,5,7255.41,2957.98,0
+TXN00093,1/7/2023,Asia Pacific,Office Supplies,Consumer,1,174.77,88.48,0
+TXN00191,1/9/2023,North America,Electronics,SMB,25,42946.67,25235.09,10
+TXN00230,1/10/2023,Europe,Electronics,Enterprise,25,45034.8,25534.33,0
+TXN00251,1/12/2023,Latin America,Clothing,Consumer,5,399.69,172.55,5
+TXN00222,1/12/2023,Middle East,Furniture,Government,5,7960.15,4635.76,10
+TXN00281,1/13/2023,North America,Technology,Government,1,3296.55,1353.54,10
+TXN00282,1/14/2023,North America,Furniture,Enterprise,3,3396.71,1510.4,0
+TXN00111,1/15/2023,Middle East,Electronics,Government,10,13231.35,9252.79,10
+TXN00015,1/15/2023,Europe,Furniture,Government,1,291.4,172.19,0
+TXN00146,1/17/2023,Europe,Electronics,Consumer,5,1563.58,1074.89,10
+TXN00172,1/17/2023,Europe,Technology,Government,5,16839.08,7276.07,10
+TXN00278,1/19/2023,Middle East,Technology,Consumer,20,29425.23,13189.99,5
+TXN00374,1/22/2023,Middle East,Office Supplies,Consumer,10,355.43,174.1,0
+TXN00175,1/22/2023,Europe,Office Supplies,SMB,20,4679.11,3231.69,10
+TXN00250,1/25/2023,Middle East,Clothing,SMB,1,33.87,14.92,20
+TXN00141,1/29/2023,Middle East,Office Supplies,Government,3,772.58,476.26,5
+TXN00170,1/31/2023,Europe,Furniture,Government,2,4271.37,1914.55,10
+TXN00013,2/2/2023,Middle East,Office Supplies,Government,5,1249.99,677.08,0
+TXN00081,2/3/2023,Latin America,Furniture,SMB,5,9472.73,5267.3,15
+TXN00334,2/4/2023,North America,Furniture,Government,50,13755.88,8368.19,0
+TXN00041,2/5/2023,Middle East,Technology,Enterprise,1,2056.97,854.12,15
+TXN00416,2/8/2023,North America,Office Supplies,Government,5,1096.26,602.58,0
+TXN00178,2/8/2023,Middle East,Clothing,Consumer,2,70.6,42.65,5
+TXN00152,2/8/2023,North America,Technology,Enterprise,10,34383.16,19118.77,0
+TXN00074,2/10/2023,Latin America,Office Supplies,SMB,1,75.79,39.67,5
+TXN00252,2/12/2023,Europe,Technology,Consumer,2,931.29,590.65,0
+TXN00460,2/12/2023,North America,Electronics,SMB,10,5582.78,3328.44,10
+TXN00379,2/14/2023,Middle East,Office Supplies,Consumer,20,2790.64,1210.8,10
+TXN00082,2/23/2023,Latin America,Clothing,SMB,20,1810.45,796.97,0
+TXN00091,2/25/2023,Asia Pacific,Clothing,Enterprise,2,377.33,235.63,0
+TXN00285,2/26/2023,Middle East,Technology,Enterprise,5,11989.7,7106.27,0
+TXN00308,2/27/2023,Latin America,Furniture,Enterprise,1,405.94,218.87,15
+TXN00209,2/28/2023,Middle East,Electronics,Enterprise,5,8210.03,4262.76,0
+TXN00196,2/28/2023,Asia Pacific,Technology,SMB,3,3223.85,1694.2,0
+TXN00332,3/3/2023,North America,Technology,Consumer,2,4861.47,2780.78,5
+TXN00219,3/6/2023,Latin America,Furniture,Consumer,5,4268.88,2410,5
+TXN00307,3/9/2023,Latin America,Clothing,Consumer,20,2676.45,1262.32,0
+TXN00446,3/10/2023,Asia Pacific,Electronics,SMB,1,760.2,458.6,0
+TXN00237,3/11/2023,North America,Technology,Enterprise,5,3619.15,2316.64,0
+TXN00482,3/12/2023,Middle East,Clothing,SMB,20,1212.95,669.96,0
+TXN00454,3/14/2023,North America,Electronics,Consumer,2,1953.94,1289.27,15
+TXN00417,3/15/2023,Latin America,Clothing,Government,25,1875.46,1107.1,0
+TXN00064,3/15/2023,Europe,Technology,Enterprise,1,790.63,482.51,0
+TXN00137,3/16/2023,Europe,Clothing,SMB,5,355.54,201.33,5
+TXN00291,3/16/2023,North America,Furniture,Government,2,3349.55,2324.23,0
+TXN00049,3/17/2023,Europe,Office Supplies,Enterprise,1,112.44,48.07,0
+TXN00080,3/19/2023,North America,Electronics,Consumer,2,938.79,622.86,10
+TXN00436,3/22/2023,North America,Furniture,Government,2,928.86,595.45,0
+TXN00450,3/23/2023,Europe,Technology,Enterprise,2,5109.6,2157.34,5
+TXN00457,3/24/2023,North America,Furniture,Government,10,18086.75,11246.75,0
+TXN00180,3/25/2023,Asia Pacific,Electronics,Enterprise,100,109820.13,73385.08,0
+TXN00124,3/25/2023,North America,Electronics,Government,3,1306.01,912.98,5
+TXN00430,3/26/2023,Middle East,Technology,Consumer,20,8802.65,4025.77,0
+TXN00149,3/27/2023,Europe,Clothing,Consumer,2,281.1,194.33,15
+TXN00265,3/28/2023,Middle East,Clothing,Government,1,160.36,67.61,0
+TXN00277,3/29/2023,Latin America,Clothing,SMB,5,592.76,327.5,0
+TXN00468,3/29/2023,Latin America,Technology,Consumer,2,4449.98,1795.33,0
+TXN00406,3/31/2023,Latin America,Furniture,Enterprise,5,11965.84,6862.28,0
+TXN00007,4/2/2023,Latin America,Technology,Enterprise,15,17281.9,8940.24,0
+TXN00493,4/2/2023,North America,Technology,SMB,10,33026.6,20727.98,5
+TXN00050,4/4/2023,Latin America,Clothing,Government,1,168.59,108.25,0
+TXN00105,4/5/2023,North America,Clothing,SMB,10,912.78,620.58,20
+TXN00016,4/6/2023,Latin America,Clothing,Consumer,5,462.4,213.13,15
+TXN00309,4/7/2023,Europe,Technology,Consumer,1,2073.31,1340.67,0
+TXN00451,4/8/2023,North America,Office Supplies,Government,5,800.98,486.14,0
+TXN00305,4/8/2023,Asia Pacific,Clothing,Consumer,5,163.92,90.77,10
+TXN00246,4/11/2023,Latin America,Furniture,Government,25,12784.72,8249.15,0
+TXN00001,4/13/2023,Latin America,Clothing,Consumer,10,998.32,446.05,0
+TXN00366,4/14/2023,North America,Furniture,Consumer,2,1762.01,725.66,0
+TXN00110,4/14/2023,Asia Pacific,Office Supplies,SMB,25,3877.94,1940.8,0
+TXN00348,4/15/2023,Europe,Furniture,Consumer,5,843.71,498.49,15
+TXN00153,4/18/2023,Europe,Office Supplies,SMB,100,1205.42,549.24,0
+TXN00315,4/19/2023,Middle East,Clothing,SMB,5,274.47,182.41,0
+TXN00192,4/21/2023,Asia Pacific,Office Supplies,Government,5,864.64,549.18,0
+TXN00087,4/21/2023,North America,Office Supplies,SMB,10,530.55,323.08,0
+TXN00461,4/21/2023,Latin America,Electronics,Enterprise,1,450.43,303.3,0
+TXN00432,4/22/2023,Asia Pacific,Office Supplies,SMB,1,88.83,62.17,0
+TXN00445,4/23/2023,Latin America,Clothing,Consumer,2,152.91,104.05,0
+TXN00376,4/23/2023,Asia Pacific,Electronics,Government,15,24415,10812.31,10
+TXN00127,4/24/2023,Asia Pacific,Technology,Enterprise,2,1511.58,946.21,0
+TXN00167,4/24/2023,Middle East,Clothing,Consumer,15,1027.14,619.78,5
+TXN00421,4/26/2023,Middle East,Technology,Enterprise,3,9328.07,4403.97,0
+TXN00224,4/27/2023,Latin America,Electronics,Government,25,9742.17,6627.9,0
+TXN00163,4/30/2023,Middle East,Electronics,Enterprise,20,39544.95,21244.72,0
+TXN00323,5/4/2023,North America,Office Supplies,Government,20,1426.62,724.88,0
+TXN00193,5/7/2023,North America,Technology,SMB,3,8125.31,4696.3,5
+TXN00448,5/8/2023,Middle East,Technology,Enterprise,2,8524.31,5748.96,0
+TXN00248,5/10/2023,Asia Pacific,Furniture,SMB,50,80147.9,51835.19,0
+TXN00030,5/11/2023,Latin America,Electronics,Government,20,39657.11,25206.15,5
+TXN00388,5/17/2023,Asia Pacific,Furniture,Government,5,12798.24,8739.86,0
+TXN00125,5/21/2023,Asia Pacific,Office Supplies,Government,20,1371.34,626.99,0
+TXN00300,5/22/2023,North America,Clothing,SMB,50,2587.24,1597.74,0
+TXN00190,5/23/2023,Europe,Furniture,Consumer,10,19103.67,8353.39,15
+TXN00042,5/23/2023,Latin America,Furniture,SMB,3,5015.69,2500.05,0
+TXN00203,5/25/2023,Asia Pacific,Electronics,Enterprise,3,5919.22,2383.72,5
+TXN00369,5/27/2023,Europe,Technology,Government,15,34192.49,16779.43,0
+TXN00238,5/29/2023,Europe,Office Supplies,SMB,2,232.33,106.2,0
+TXN00254,5/29/2023,North America,Technology,SMB,2,1871.93,1137.17,5
+TXN00270,5/29/2023,Latin America,Technology,Consumer,50,96254.01,55319.76,10
+TXN00414,6/3/2023,Latin America,Technology,Consumer,10,12586.11,7671.15,0
+TXN00284,6/3/2023,Middle East,Clothing,SMB,10,304.83,178.59,0
+TXN00455,6/3/2023,North America,Furniture,Enterprise,25,56722.13,37714.44,0
+TXN00113,6/8/2023,Latin America,Clothing,Government,5,614.5,345.32,0
+TXN00290,6/10/2023,North America,Technology,Government,15,13009.66,6803.68,10
+TXN00128,6/11/2023,Latin America,Electronics,Consumer,50,64586.28,42633.28,0
+TXN00032,6/12/2023,Middle East,Electronics,Government,10,7117.93,3542.02,10
+TXN00181,6/12/2023,North America,Electronics,Government,3,5559.4,3012.99,20
+TXN00367,6/13/2023,Asia Pacific,Office Supplies,Enterprise,5,578.68,311.06,0
+TXN00458,6/15/2023,North America,Furniture,SMB,10,9060.39,6043.44,0
+TXN00394,6/15/2023,Asia Pacific,Electronics,Government,10,13861.09,6772.4,0
+TXN00235,6/16/2023,North America,Electronics,Consumer,100,36691.26,15822.48,10
+TXN00239,6/21/2023,Europe,Electronics,Consumer,10,8047.67,3364.27,5
+TXN00036,6/21/2023,Latin America,Clothing,SMB,25,2138.1,865.15,15
+TXN00328,6/22/2023,North America,Office Supplies,Government,15,1333.27,882.39,0
+TXN00480,6/24/2023,Europe,Electronics,Enterprise,5,5516.59,3647.34,5
+TXN00213,6/24/2023,Europe,Electronics,Consumer,50,34329.29,13912.11,0
+TXN00040,6/25/2023,Middle East,Furniture,Consumer,3,1871.95,1092.2,0
+TXN00166,6/25/2023,Europe,Furniture,SMB,50,21151.04,14136.17,20
+TXN00077,6/26/2023,Asia Pacific,Clothing,SMB,3,526.46,343.59,10
+TXN00211,6/27/2023,Latin America,Technology,Consumer,1,1131.41,691.75,0
+TXN00245,6/29/2023,Europe,Technology,SMB,5,16694.15,9166.57,20
+TXN00067,7/1/2023,Asia Pacific,Furniture,SMB,2,2288.97,1089.79,0
+TXN00158,7/6/2023,Europe,Clothing,Enterprise,2,295.71,205.43,15
+TXN00287,7/7/2023,Latin America,Office Supplies,Enterprise,5,287.32,174.87,10
+TXN00353,7/7/2023,Latin America,Furniture,Government,15,36466.3,24614.41,0
+TXN00466,7/7/2023,Europe,Technology,SMB,5,16967.75,7112.91,10
+TXN00377,7/7/2023,North America,Electronics,Government,10,4700.16,2442.81,10
+TXN00019,7/9/2023,North America,Electronics,Enterprise,5,1505.07,761.22,0
+TXN00043,7/9/2023,Middle East,Furniture,SMB,1,262.91,170.04,0
+TXN00439,7/11/2023,North America,Electronics,Consumer,3,2576.02,1329.67,15
+TXN00094,7/11/2023,North America,Clothing,Government,1,91.36,42.34,0
+TXN00375,7/13/2023,North America,Office Supplies,Government,5,1125.21,784.46,0
+TXN00487,7/13/2023,Latin America,Electronics,Government,50,20057.39,11924.03,0
+TXN00088,7/14/2023,Asia Pacific,Clothing,Government,2,137.3,56.6,0
+TXN00389,7/17/2023,Latin America,Office Supplies,Enterprise,1,27.05,15.4,15
+TXN00304,7/17/2023,Europe,Electronics,SMB,2,3430.58,2247,5
+TXN00361,7/20/2023,North America,Clothing,Enterprise,5,329.61,134.9,20
+TXN00489,7/25/2023,Asia Pacific,Technology,Consumer,3,1267.09,639.86,15
+TXN00184,7/25/2023,North America,Technology,Government,3,3533.95,1934.76,0
+TXN00083,7/26/2023,Middle East,Clothing,SMB,10,619.45,273.12,0
+TXN00325,7/26/2023,Europe,Office Supplies,Enterprise,20,301.07,135.7,0
+TXN00283,7/30/2023,Middle East,Furniture,Government,3,5628.95,3569.43,0
+TXN00473,8/1/2023,Middle East,Electronics,SMB,5,5124.43,2347.8,15
+TXN00247,8/4/2023,Europe,Office Supplies,Government,2,463.57,230.28,0
+TXN00010,8/5/2023,Latin America,Technology,Government,2,3079.83,1384.63,0
+TXN00023,8/13/2023,North America,Office Supplies,SMB,1,123.6,85.99,0
+TXN00403,8/13/2023,North America,Clothing,SMB,2,329.84,202.21,15
+TXN00404,8/14/2023,Latin America,Clothing,Consumer,1,108.96,62.62,20
+TXN00176,8/15/2023,Latin America,Clothing,Government,1,38.87,19.32,0
+TXN00071,8/15/2023,Asia Pacific,Technology,Enterprise,5,14995.32,9128.02,0
+TXN00096,8/16/2023,Europe,Electronics,Government,1,796.47,405.34,5
+TXN00107,8/17/2023,Latin America,Office Supplies,Enterprise,2,164.34,96.98,15
+TXN00274,8/21/2023,Europe,Clothing,Enterprise,2,441.9,275.95,5
+TXN00048,8/25/2023,Middle East,Electronics,Government,5,7379.71,3916.43,10
+TXN00475,8/27/2023,Middle East,Clothing,Government,10,751.8,327.23,0
+TXN00481,8/27/2023,Middle East,Electronics,Enterprise,1,957.55,424.05,5
+TXN00076,8/30/2023,Asia Pacific,Clothing,Enterprise,1,108.09,69.52,20
+TXN00259,8/30/2023,Middle East,Clothing,Enterprise,15,3261.31,1781.84,0
+TXN00099,8/31/2023,Middle East,Technology,Government,1,1923.89,1329.1,15
+TXN00200,9/3/2023,Middle East,Technology,Consumer,5,10026.06,6215.49,0
+TXN00316,9/4/2023,Asia Pacific,Clothing,Enterprise,1,43.01,27.82,0
+TXN00298,9/7/2023,Asia Pacific,Electronics,Enterprise,5,5508.18,2777.24,15
+TXN00210,9/8/2023,Asia Pacific,Furniture,Enterprise,5,13167.37,7063.27,5
+TXN00051,9/11/2023,Middle East,Furniture,SMB,25,53710.76,25688.14,0
+TXN00031,9/11/2023,Asia Pacific,Electronics,Consumer,50,28454.86,13988.67,0
+TXN00038,9/13/2023,Asia Pacific,Furniture,Enterprise,3,7703.07,5230.42,0
+TXN00134,9/13/2023,North America,Furniture,Enterprise,2,5713.92,3594.52,0
+TXN00294,9/18/2023,Latin America,Furniture,Government,1,2551.14,1716.45,10
+TXN00338,9/19/2023,North America,Furniture,Enterprise,1,1901.3,1278.08,0
+TXN00395,9/20/2023,Latin America,Furniture,Consumer,2,2685.88,1392.73,10
+TXN00419,9/22/2023,Asia Pacific,Furniture,Consumer,3,3295.6,1794.34,5
+TXN00495,9/26/2023,Asia Pacific,Office Supplies,Enterprise,2,152.5,80.44,15
+TXN00009,9/27/2023,Latin America,Electronics,SMB,2,1692.67,814.86,10
+TXN00322,9/29/2023,Europe,Furniture,Consumer,10,2788.36,1261.63,15
+TXN00006,10/1/2023,Latin America,Electronics,Government,5,4907.29,1986.42,0
+TXN00463,10/2/2023,Latin America,Office Supplies,Consumer,5,240.27,140.57,10
+TXN00362,10/5/2023,Latin America,Clothing,Enterprise,3,411.89,185.56,0
+TXN00218,10/6/2023,Asia Pacific,Clothing,Consumer,3,186.33,110.81,0
+TXN00327,10/8/2023,Europe,Electronics,Consumer,50,63692.54,38839.37,10
+TXN00115,10/10/2023,Middle East,Technology,Consumer,50,61240.77,28673.25,0
+TXN00126,10/13/2023,Asia Pacific,Furniture,Enterprise,15,22243.15,12396.49,0
+TXN00273,10/15/2023,Asia Pacific,Electronics,Government,100,150204.8,74362.9,15
+TXN00271,10/15/2023,Latin America,Furniture,Consumer,1,354.99,205.74,0
+TXN00249,10/16/2023,Latin America,Electronics,SMB,20,30675.17,15192.17,20
+TXN00012,10/16/2023,Asia Pacific,Clothing,SMB,3,142.14,93.66,5
+TXN00168,10/16/2023,Asia Pacific,Technology,Enterprise,2,2199.24,1100.07,0
+TXN00144,10/23/2023,North America,Electronics,Enterprise,10,14666.58,7889.22,0
+TXN00228,10/25/2023,Latin America,Technology,Government,1,3503.53,1793.99,5
+TXN00496,10/27/2023,Asia Pacific,Electronics,SMB,10,8371.66,5412.69,5
+TXN00101,10/27/2023,Middle East,Furniture,SMB,10,6229.05,3867.46,5
+TXN00345,10/28/2023,Europe,Technology,SMB,10,31557.33,12642.85,10
+TXN00293,10/29/2023,Europe,Office Supplies,Enterprise,15,1020.58,653.98,0
+TXN00470,10/30/2023,Latin America,Office Supplies,Consumer,15,172.7,116.98,0
+TXN00333,10/31/2023,Latin America,Clothing,Consumer,3,351.59,196.04,0
+TXN00301,11/1/2023,Asia Pacific,Office Supplies,Enterprise,25,7267.41,3305.98,0
+TXN00084,11/2/2023,Europe,Furniture,SMB,5,1910.12,1180.3,5
+TXN00195,11/5/2023,Asia Pacific,Technology,SMB,1,2476.57,1237.53,5
+TXN00142,11/6/2023,Europe,Clothing,Government,2,80.91,38.73,5
+TXN00324,11/9/2023,Middle East,Clothing,SMB,15,2483.12,1166.64,10
+TXN00129,11/9/2023,Asia Pacific,Office Supplies,Consumer,1,29.78,19.06,0
+TXN00206,11/9/2023,Latin America,Technology,Enterprise,5,9473.82,5305.85,10
+TXN00288,11/10/2023,Middle East,Technology,Government,5,9158.44,3999.61,10
+TXN00462,11/10/2023,North America,Office Supplies,Government,1,267.1,174.03,10
+TXN00104,11/15/2023,Middle East,Electronics,Enterprise,1,1222.67,711.39,10
+TXN00186,11/16/2023,Europe,Office Supplies,Enterprise,15,4297.57,2889.45,10
+TXN00418,11/18/2023,Asia Pacific,Clothing,Consumer,1,85.11,50.96,0
+TXN00373,11/19/2023,Asia Pacific,Clothing,Enterprise,50,3944.49,2446.41,10
+TXN00114,11/20/2023,Latin America,Clothing,SMB,1,119.77,68.23,10
+TXN00217,11/20/2023,Europe,Clothing,SMB,2,260.28,167.19,10
+TXN00223,11/22/2023,Europe,Technology,Consumer,5,12602.31,6669.88,15
+TXN00002,11/27/2023,Asia Pacific,Clothing,Government,1,148.91,62.08,10
+TXN00197,11/28/2023,North America,Clothing,Consumer,3,392.34,230.94,10
+TXN00488,11/29/2023,Middle East,Technology,Government,25,14548.15,7767.49,0
+TXN00225,11/30/2023,Middle East,Technology,Government,5,14764.82,10023.57,5
+TXN00286,12/2/2023,Europe,Technology,Government,1,2259.34,1309.99,5
+TXN00438,12/6/2023,Latin America,Clothing,Consumer,1,120.59,72.51,0
+TXN00060,12/8/2023,Middle East,Office Supplies,Consumer,3,36.18,24.3,0
+TXN00363,12/9/2023,Asia Pacific,Office Supplies,SMB,15,2604.83,1180.38,5
+TXN00342,12/10/2023,Middle East,Electronics,Enterprise,15,20049.28,13311.9,5
+TXN00159,12/10/2023,Asia Pacific,Clothing,SMB,2,357.35,167.78,15
+TXN00116,12/12/2023,Asia Pacific,Technology,SMB,5,9995.4,5831.68,0
+TXN00242,12/14/2023,Asia Pacific,Clothing,Government,25,3237.31,2112.7,5
+TXN00069,12/14/2023,North America,Technology,Enterprise,1,2589.9,1374.98,10
+TXN00045,12/16/2023,Asia Pacific,Technology,Government,50,118580.77,58921.24,10
+TXN00350,12/16/2023,Europe,Electronics,Enterprise,3,2625.99,1433.27,5
+TXN00303,12/20/2023,Latin America,Furniture,Consumer,1,1459.49,821.78,0
+TXN00423,12/20/2023,Middle East,Electronics,Enterprise,3,5107.09,2905.92,0
+TXN00351,12/23/2023,Middle East,Electronics,Consumer,2,2295.85,1367.61,10
+TXN00136,12/25/2023,North America,Office Supplies,SMB,100,13185.74,5953.41,0
+TXN00354,12/26/2023,Asia Pacific,Furniture,Consumer,5,7276.67,4413.46,0
+TXN00339,12/28/2023,North America,Electronics,Enterprise,3,4541.74,2456.73,0
+TXN00440,1/4/2024,Asia Pacific,Office Supplies,Government,1,226.15,132.25,10
+TXN00497,1/4/2024,North America,Office Supplies,SMB,10,633.1,353.66,10
+TXN00059,1/4/2024,Middle East,Electronics,Consumer,1,1373.32,757.49,10
+TXN00120,1/6/2024,Middle East,Electronics,Enterprise,2,3731.13,1497.64,0
+TXN00072,1/8/2024,Asia Pacific,Electronics,Consumer,2,2871.07,1915.23,0
+TXN00021,1/9/2024,North America,Technology,Enterprise,1,1478.36,700.84,5
+TXN00212,1/10/2024,Europe,Clothing,Enterprise,10,667.81,314.12,20
+TXN00057,1/11/2024,Latin America,Electronics,Enterprise,50,68427.26,36063.99,5
+TXN00318,1/12/2024,Asia Pacific,Furniture,Consumer,10,7310.12,3481.79,10
+TXN00349,1/12/2024,Latin America,Office Supplies,Government,5,1055.51,590.03,10
+TXN00138,1/13/2024,Latin America,Clothing,SMB,1,69.55,33.38,10
+TXN00437,1/13/2024,Middle East,Electronics,Enterprise,1,401.2,177.59,0
+TXN00498,1/13/2024,Middle East,Office Supplies,Government,15,461.93,292.42,10
+TXN00484,1/15/2024,North America,Technology,Enterprise,5,19181.38,12399.16,10
+TXN00380,1/15/2024,Latin America,Furniture,SMB,10,16604.17,7693.27,15
+TXN00479,1/17/2024,Latin America,Office Supplies,Enterprise,3,689.55,456.1,5
+TXN00198,1/17/2024,Latin America,Technology,Government,5,11814.52,6810.1,0
+TXN00364,1/18/2024,Latin America,Clothing,Government,15,1955.17,878.99,5
+TXN00378,1/19/2024,Latin America,Office Supplies,Consumer,5,650.49,372.8,5
+TXN00022,1/22/2024,North America,Clothing,Enterprise,100,8752.14,6065.1,0
+TXN00183,1/22/2024,Middle East,Technology,Enterprise,25,109210.52,49760.43,0
+TXN00008,1/23/2024,Europe,Furniture,Government,2,5442.45,3442.57,15
+TXN00387,1/25/2024,Middle East,Technology,Enterprise,1,4220.09,2734.68,0
+TXN00033,1/27/2024,Asia Pacific,Electronics,Government,5,2252.44,1149.45,0
+TXN00368,1/30/2024,Latin America,Clothing,Enterprise,10,1250.22,513.01,20
+TXN00055,2/1/2024,Latin America,Furniture,Enterprise,1,2120.34,893.42,0
+TXN00063,2/2/2024,Europe,Clothing,Consumer,20,1377.29,599.29,0
+TXN00398,2/2/2024,Europe,Office Supplies,Enterprise,10,1091.19,733.08,0
+TXN00267,2/3/2024,Asia Pacific,Office Supplies,Government,3,370.88,209.5,10
+TXN00297,2/4/2024,Europe,Electronics,Enterprise,2,1209.89,793.6,0
+TXN00026,2/7/2024,Europe,Office Supplies,Consumer,2,265.17,119.94,5
+TXN00422,2/8/2024,Latin America,Furniture,Consumer,2,444.04,182.41,0
+TXN00420,2/8/2024,Middle East,Office Supplies,Consumer,50,5982.66,3034.02,10
+TXN00243,2/10/2024,Europe,Electronics,Enterprise,15,27374.32,16770.15,0
+TXN00296,2/12/2024,Latin America,Furniture,SMB,1,792.1,382.33,10
+TXN00459,2/13/2024,Latin America,Technology,Enterprise,5,11127.3,7776.63,0
+TXN00112,2/15/2024,North America,Technology,SMB,10,19605,12280.39,0
+TXN00384,2/16/2024,Latin America,Clothing,Government,2,267.15,116.47,15
+TXN00490,2/18/2024,Asia Pacific,Furniture,SMB,15,15128.93,8919.97,0
+TXN00003,2/18/2024,Europe,Technology,Enterprise,5,14635.98,5885.42,0
+TXN00474,3/1/2024,North America,Technology,Consumer,3,4257.58,1719.96,0
+TXN00411,3/3/2024,Middle East,Office Supplies,Government,15,4124.96,2631.49,15
+TXN00486,3/4/2024,Asia Pacific,Office Supplies,Enterprise,3,598.85,242.33,0
+TXN00182,3/5/2024,North America,Electronics,Enterprise,15,27049.46,17675.06,10
+TXN00346,3/6/2024,North America,Technology,SMB,2,5031.09,3220.43,5
+TXN00157,3/7/2024,North America,Clothing,SMB,1,46.42,24.02,0
+TXN00428,3/8/2024,Middle East,Technology,Consumer,25,33948.12,19147.08,5
+TXN00358,3/9/2024,Middle East,Office Supplies,Consumer,50,4149.96,1708.53,0
+TXN00435,3/11/2024,North America,Office Supplies,Enterprise,5,1187.54,727.42,0
+TXN00329,3/12/2024,Middle East,Technology,Government,2,1188.69,677.73,0
+TXN00352,3/13/2024,Asia Pacific,Furniture,Government,10,9232.37,4541.35,10
+TXN00396,3/13/2024,North America,Technology,Enterprise,2,3879.07,1619.23,0
+TXN00335,3/13/2024,Latin America,Electronics,Consumer,20,15527.88,9039.2,5
+TXN00024,3/14/2024,Asia Pacific,Office Supplies,Enterprise,10,1198.18,706.56,5
+TXN00452,3/14/2024,Asia Pacific,Clothing,Consumer,50,3108.07,1329.07,5
+TXN00232,3/14/2024,Europe,Clothing,Consumer,2,267.31,144.85,5
+TXN00355,3/15/2024,Latin America,Clothing,Consumer,1,136.26,68.64,0
+TXN00386,3/16/2024,North America,Furniture,Enterprise,1,991.37,606.81,0
+TXN00234,3/16/2024,North America,Furniture,Government,1,2010.42,1048.02,0
+TXN00097,3/18/2024,Asia Pacific,Clothing,SMB,5,327.92,141.18,0
+TXN00434,3/18/2024,Europe,Electronics,Enterprise,50,19136.17,9177.67,5
+TXN00044,3/19/2024,Middle East,Electronics,Government,15,10091.91,5922.61,0
+TXN00383,3/21/2024,Europe,Furniture,Government,5,1979.5,1197.17,0
+TXN00413,3/21/2024,North America,Technology,Consumer,3,8347.04,3779.78,0
+TXN00359,3/23/2024,Asia Pacific,Furniture,Consumer,1,1549,832.68,0
+TXN00415,3/25/2024,Europe,Clothing,SMB,3,413.25,195.96,5
+TXN00381,3/26/2024,Asia Pacific,Clothing,Consumer,3,159.76,94.6,20
+TXN00131,3/27/2024,Latin America,Clothing,SMB,2,147.94,98.96,0
+TXN00391,3/27/2024,North America,Electronics,Enterprise,3,4610.89,3226.88,0
+TXN00442,3/28/2024,Asia Pacific,Clothing,Government,15,1975.86,1025.4,0
+TXN00410,3/28/2024,Europe,Furniture,SMB,3,832.37,374.34,0
+TXN00312,3/29/2024,Latin America,Furniture,Consumer,5,4108.68,2749.35,0
+TXN00061,3/30/2024,Latin America,Technology,Consumer,3,1574.6,673.16,5
+TXN00393,3/30/2024,North America,Clothing,SMB,5,461.85,284.45,0
+TXN00443,4/2/2024,North America,Technology,Consumer,2,2166.25,1432.81,5
+TXN00227,4/3/2024,Latin America,Furniture,Consumer,5,7308.68,3157.81,5
+TXN00409,4/3/2024,North America,Furniture,SMB,5,3585.02,1972.41,5
+TXN00177,4/3/2024,Europe,Furniture,SMB,2,4787.23,2526.96,0
+TXN00204,4/4/2024,Latin America,Clothing,Consumer,3,163.52,69.01,0
+TXN00014,4/6/2024,Asia Pacific,Electronics,Enterprise,5,9016.93,4942.53,5
+TXN00385,4/10/2024,Latin America,Furniture,SMB,15,26733.33,12871.14,0
+TXN00276,4/10/2024,Europe,Clothing,Enterprise,10,1908.35,885.58,5
+TXN00062,4/13/2024,Latin America,Clothing,Consumer,15,587.75,399.25,20
+TXN00004,4/19/2024,Asia Pacific,Furniture,Government,2,2317.75,1244.22,10
+TXN00499,4/24/2024,Latin America,Furniture,Enterprise,10,6429.37,2990.75,0
+TXN00492,4/24/2024,Europe,Technology,Enterprise,1,1289.33,791.61,0
+TXN00085,4/25/2024,Latin America,Furniture,Consumer,10,16234.73,8731.1,10
+TXN00289,4/25/2024,Europe,Technology,Enterprise,5,17147.18,11994.53,15
+TXN00035,4/25/2024,Middle East,Technology,Enterprise,3,8299.85,5233.6,0
+TXN00244,4/25/2024,Europe,Clothing,SMB,3,245.84,115.97,5
+TXN00174,4/28/2024,Europe,Technology,Consumer,2,4763.32,2917.87,0
+TXN00311,4/29/2024,Middle East,Electronics,Consumer,2,2732.09,1519.2,0
+TXN00347,4/29/2024,Asia Pacific,Technology,Government,15,10326.13,4378.84,0
+TXN00360,4/29/2024,Europe,Clothing,Enterprise,50,4818.44,3211.59,5
+TXN00313,4/30/2024,North America,Technology,Enterprise,1,1922.96,1191.83,10
+TXN00272,5/2/2024,Asia Pacific,Technology,SMB,5,17077.83,8064.28,0
+TXN00143,5/5/2024,North America,Office Supplies,Enterprise,2,385.3,208.94,0
+TXN00280,5/5/2024,North America,Furniture,Enterprise,10,19343.6,8828.56,0
+TXN00037,5/11/2024,Middle East,Office Supplies,Government,20,1846.47,951.91,15
+TXN00053,5/11/2024,Latin America,Office Supplies,Government,5,586.27,347.65,0
+TXN00220,5/11/2024,Asia Pacific,Technology,SMB,1,2315.17,1390.18,5
+TXN00145,5/12/2024,Middle East,Technology,Government,50,21992.97,9477.39,0
+TXN00485,5/13/2024,Latin America,Office Supplies,SMB,15,1723.43,784.22,15
+TXN00066,5/14/2024,North America,Electronics,Enterprise,15,15505.59,6590.65,10
+TXN00185,5/15/2024,Middle East,Furniture,Government,3,8278.41,3682.85,0
+TXN00123,5/15/2024,North America,Electronics,Enterprise,5,7664.58,3095.94,5
+TXN00392,5/16/2024,Latin America,Electronics,Consumer,3,1414.64,722.33,0
+TXN00098,5/17/2024,Latin America,Office Supplies,SMB,2,103.06,68.95,0
+TXN00491,5/18/2024,North America,Technology,Government,3,7474.69,4158.33,0
+TXN00336,5/19/2024,Middle East,Office Supplies,Government,10,490.3,230.57,10
+TXN00161,5/20/2024,Asia Pacific,Clothing,Enterprise,5,390.3,216.8,5
+TXN00086,5/22/2024,Latin America,Clothing,SMB,5,410.56,189.98,5
+TXN00429,5/23/2024,North America,Technology,SMB,3,8108.81,3731.42,0
+TXN00431,5/25/2024,Latin America,Electronics,Enterprise,15,22331.71,14935.72,10
+TXN00025,5/25/2024,North America,Electronics,Government,5,7731.9,5083.78,0
+TXN00372,5/25/2024,North America,Technology,Enterprise,3,11640.67,7775.12,0
+TXN00199,5/26/2024,Latin America,Furniture,Consumer,25,23254.59,11233.09,5
+TXN00331,5/28/2024,North America,Clothing,SMB,2,356.71,209.69,5
+TXN00444,6/2/2024,Asia Pacific,Furniture,Government,100,183650.29,87096.71,0
+TXN00268,6/3/2024,Europe,Technology,Enterprise,2,7130.71,4188.57,0
+TXN00201,6/3/2024,Latin America,Furniture,Government,3,4613.02,2416.8,0
+TXN00011,6/4/2024,North America,Technology,Government,1,3502.44,2143.69,10
+TXN00257,6/9/2024,Middle East,Clothing,SMB,50,3364.35,1480.79,0
+TXN00433,6/11/2024,Middle East,Clothing,Government,10,487.3,274.52,10
+TXN00402,6/11/2024,Asia Pacific,Clothing,Government,5,944.35,569.14,5
+TXN00122,6/12/2024,Asia Pacific,Office Supplies,Government,25,2000.71,1146.99,0
+TXN00382,6/16/2024,Asia Pacific,Clothing,Consumer,5,201.83,134.54,5
+TXN00500,6/17/2024,Middle East,Clothing,Government,2,265.07,109.13,5
+TXN00471,6/18/2024,North America,Clothing,Enterprise,3,578.56,368.42,0
+TXN00194,6/20/2024,Middle East,Office Supplies,SMB,2,238.4,148.59,15
+TXN00165,6/20/2024,Middle East,Office Supplies,Consumer,2,116.01,46.58,5
+TXN00095,6/20/2024,North America,Clothing,Government,3,291.43,173.3,0
+TXN00214,6/21/2024,North America,Technology,Consumer,25,54043.06,32585.48,0
+TXN00179,6/22/2024,Asia Pacific,Electronics,SMB,2,1828.88,1249.28,0
+TXN00399,6/24/2024,Asia Pacific,Electronics,Government,1,1003.72,631.03,0
+TXN00472,6/27/2024,Middle East,Technology,SMB,3,5994.76,4090.44,15
+TXN00090,6/29/2024,North America,Furniture,Enterprise,2,962.21,523.77,5
+TXN00240,7/1/2024,Middle East,Clothing,Enterprise,10,751.75,421.54,0
+TXN00343,7/4/2024,Middle East,Office Supplies,SMB,100,4197.95,2025.17,0
+TXN00202,7/6/2024,Latin America,Clothing,Consumer,5,487.13,291.69,0
+TXN00426,7/6/2024,Asia Pacific,Technology,SMB,1,583.58,398.14,5
+TXN00262,7/7/2024,Middle East,Electronics,Enterprise,1,1584.45,1081.94,10
+TXN00236,7/7/2024,Middle East,Technology,Government,5,13359.69,6951.8,0
+TXN00075,7/11/2024,Asia Pacific,Clothing,SMB,25,3471.45,2027.41,0
+TXN00326,7/11/2024,Latin America,Clothing,Government,1,107.23,68.7,0
+TXN00447,7/12/2024,Latin America,Electronics,Enterprise,15,25954.49,11286.5,10
+TXN00229,7/12/2024,Asia Pacific,Clothing,Consumer,5,446.98,258.38,10
+TXN00263,7/13/2024,Middle East,Electronics,SMB,25,15869.28,10066.7,10
+TXN00269,7/14/2024,Latin America,Technology,SMB,1,3469.84,1885.78,15
+TXN00005,7/16/2024,Latin America,Technology,Government,3,11011.72,6652.09,0
+TXN00148,7/24/2024,Europe,Electronics,Enterprise,10,3861.23,2225.92,20
+TXN00162,7/26/2024,Asia Pacific,Furniture,Consumer,15,21564.57,9621.44,10
+TXN00449,7/27/2024,Middle East,Furniture,Enterprise,1,1745.1,1210.55,5
+TXN00483,7/27/2024,North America,Office Supplies,Enterprise,10,1313.14,874.14,0
+TXN00160,7/28/2024,Middle East,Office Supplies,Enterprise,1,28.38,14.62,0
+TXN00121,7/28/2024,Latin America,Electronics,SMB,25,19507.49,9833.45,10
+TXN00357,7/29/2024,Middle East,Furniture,Government,2,5538.03,2969.49,5
+TXN00494,7/29/2024,Europe,Technology,SMB,5,12044.74,5383.31,0
+TXN00337,8/1/2024,Latin America,Furniture,Government,5,10679.54,5893.82,5
+TXN00231,8/2/2024,Europe,Office Supplies,Government,3,574.7,246.35,5
+TXN00279,8/6/2024,North America,Technology,Enterprise,20,31510.07,14437.48,15
+TXN00216,8/7/2024,North America,Electronics,Enterprise,20,36513.03,20816.26,10
+TXN00173,8/8/2024,North America,Furniture,Consumer,3,1446.21,905.49,10
+TXN00370,8/9/2024,North America,Office Supplies,Consumer,25,1970.77,1217.37,15
+TXN00319,8/10/2024,Latin America,Furniture,Government,10,23492.84,10106.41,0
+TXN00424,8/10/2024,Europe,Office Supplies,Consumer,1,91.72,61.56,10
+TXN00106,8/10/2024,Asia Pacific,Office Supplies,Enterprise,10,1787.25,1166.27,0
+TXN00189,8/11/2024,Latin America,Furniture,SMB,2,4699.95,2163.19,5
+TXN00258,8/13/2024,Middle East,Furniture,Consumer,1,1140.32,529.75,0
+TXN00150,8/16/2024,Latin America,Office Supplies,SMB,5,794.78,472.93,0
+TXN00453,8/18/2024,Asia Pacific,Furniture,SMB,5,8712.09,4460.4,5
+TXN00108,8/23/2024,Middle East,Furniture,Enterprise,10,14791.57,9084.02,15
+TXN00341,8/24/2024,Middle East,Clothing,Enterprise,2,223.8,92.5,0
+TXN00056,8/24/2024,Europe,Office Supplies,Enterprise,3,637.42,321.58,15
+TXN00464,8/25/2024,Asia Pacific,Furniture,Enterprise,25,46171.14,25925.08,0
+TXN00046,8/26/2024,Europe,Furniture,Enterprise,2,898.84,475.03,5
+TXN00089,8/26/2024,Europe,Clothing,SMB,1,48.1,25.89,0
+TXN00118,8/26/2024,Europe,Electronics,SMB,1,402.63,262.57,15
+TXN00205,8/27/2024,Europe,Technology,SMB,1,1816.17,1046.78,15
+TXN00154,8/30/2024,Asia Pacific,Office Supplies,Consumer,1,20.01,8.54,0
+TXN00130,8/31/2024,Latin America,Furniture,Consumer,2,2972.39,1952,10
+TXN00078,9/1/2024,North America,Office Supplies,Consumer,2,41.42,27.31,10
+TXN00456,9/1/2024,North America,Clothing,Government,5,512.41,348.89,5
+TXN00139,9/1/2024,Latin America,Clothing,Enterprise,3,434.98,283.36,0
+TXN00028,9/2/2024,Latin America,Furniture,Government,5,7908.97,3737.43,0
+TXN00295,9/3/2024,North America,Technology,Government,1,3260.2,1946.62,20
+TXN00314,9/4/2024,Latin America,Office Supplies,Government,1,210.77,104.52,20
+TXN00119,9/4/2024,Middle East,Furniture,SMB,2,4078.46,2037.78,0
+TXN00469,9/5/2024,Middle East,Clothing,Enterprise,15,3213.37,2005.25,10
+TXN00255,9/6/2024,North America,Clothing,Consumer,2,93.44,55.76,10
+TXN00476,9/7/2024,Middle East,Furniture,Enterprise,10,16539.4,7416.41,0
+TXN00292,9/10/2024,North America,Clothing,SMB,5,374.04,255.17,0
+TXN00344,9/11/2024,Asia Pacific,Technology,Government,25,77976.08,45411.05,0
+TXN00151,9/11/2024,Latin America,Clothing,SMB,20,2190.8,1166.18,0
+TXN00018,9/11/2024,Latin America,Technology,SMB,20,28217.56,12320.53,0
+TXN00261,9/15/2024,Latin America,Furniture,Government,15,27007.06,17767.12,0
+TXN00039,9/17/2024,Europe,Office Supplies,SMB,20,3617.9,2203.68,10
+TXN00302,9/20/2024,Latin America,Furniture,Enterprise,20,35647.86,19856.47,0
+TXN00405,9/22/2024,Middle East,Technology,SMB,5,10892.96,6896.1,0
+TXN00207,9/23/2024,Latin America,Technology,Consumer,20,17115.43,7420.84,0
+TXN00241,9/24/2024,Latin America,Electronics,Government,10,17277.19,11716.58,0
+TXN00065,9/25/2024,Europe,Clothing,Enterprise,1,222.49,113.98,0
+TXN00164,9/26/2024,Latin America,Clothing,Enterprise,1,197.29,81.01,0
+TXN00365,9/28/2024,Asia Pacific,Clothing,Consumer,15,763.7,484.73,10
+TXN00109,9/28/2024,North America,Electronics,Enterprise,3,3190.17,1785.08,0
+TXN00068,9/29/2024,Europe,Technology,Government,15,52952.21,33003.18,5
+TXN00027,10/1/2024,Europe,Electronics,Consumer,2,695.03,470.82,15
+TXN00047,10/2/2024,Europe,Furniture,Enterprise,3,2671.23,1143.72,0
+TXN00208,10/3/2024,North America,Clothing,Government,1,147,68.71,0
+TXN00253,10/3/2024,Asia Pacific,Furniture,Enterprise,5,5250.8,2778.2,0
+TXN00425,10/6/2024,Middle East,Technology,Consumer,3,4930.07,2274.75,5
+TXN00317,10/6/2024,Asia Pacific,Clothing,Government,20,3566.72,2005.35,10
+TXN00079,10/6/2024,Asia Pacific,Clothing,Consumer,15,2146.44,1405.69,0
+TXN00100,10/7/2024,North America,Office Supplies,SMB,25,3473.55,1985.08,0
+TXN00226,10/9/2024,Europe,Technology,SMB,10,12433.02,6515.71,0
+TXN00397,10/11/2024,Middle East,Technology,Consumer,15,5095.08,2617.49,0
+TXN00306,10/11/2024,Asia Pacific,Office Supplies,Consumer,3,223.67,147.99,5
+TXN00029,10/13/2024,Middle East,Clothing,Government,5,471.65,238.07,10
+TXN00330,10/15/2024,Asia Pacific,Clothing,Consumer,2,232.56,134.8,0
+TXN00215,10/15/2024,Middle East,Clothing,Enterprise,1,160.85,112.57,0
+TXN00052,10/20/2024,Europe,Electronics,Government,10,5765.41,2428.22,5
+TXN00188,10/21/2024,North America,Furniture,Government,1,1055.53,586.15,0
+TXN00147,10/22/2024,North America,Clothing,SMB,5,885.43,594.13,5
+TXN00233,10/23/2024,Middle East,Office Supplies,Government,2,367.4,175.27,5
+TXN00321,10/23/2024,North America,Clothing,Government,3,619.03,365.38,0
+TXN00467,10/23/2024,Asia Pacific,Furniture,Enterprise,2,3725.79,1945.94,0
+TXN00275,10/24/2024,Latin America,Office Supplies,Government,5,1379.61,939.81,0
+TXN00266,10/25/2024,North America,Clothing,Government,10,968.19,473.41,0
+TXN00073,10/29/2024,Middle East,Furniture,Government,5,6078.08,2849.52,0
+TXN00412,10/29/2024,Latin America,Electronics,Government,5,5933.95,3097.54,20
+TXN00356,10/30/2024,Europe,Technology,SMB,5,7317.79,3084.55,0
+TXN00034,10/31/2024,Middle East,Office Supplies,SMB,25,2776.05,1401.97,5
+TXN00299,11/2/2024,Asia Pacific,Technology,Government,5,19805.94,8232.88,0
+TXN00132,11/3/2024,Middle East,Office Supplies,Government,2,338.18,178.03,15
+TXN00401,11/4/2024,Middle East,Clothing,Enterprise,15,2019.26,1018.57,0
+TXN00117,11/13/2024,Latin America,Technology,Government,25,85163,34653.4,5
+TXN00070,11/15/2024,Middle East,Clothing,Consumer,20,1819.25,1269.64,0
+TXN00400,11/17/2024,North America,Technology,SMB,20,44483.03,18812.56,0
+TXN00340,11/19/2024,Middle East,Clothing,SMB,20,748.49,486.51,10
+TXN00156,11/19/2024,Asia Pacific,Clothing,SMB,2,315.85,194.14,5
+TXN00058,11/19/2024,Asia Pacific,Technology,SMB,2,4481.93,2958.68,5
+TXN00256,11/20/2024,Middle East,Technology,Consumer,3,2476.44,1263.8,0
+TXN00103,11/20/2024,Europe,Clothing,Consumer,5,251.08,152,0
+TXN00054,11/21/2024,Asia Pacific,Clothing,Government,3,609.63,409.43,0
+TXN00187,11/21/2024,North America,Electronics,Government,100,53934.19,29645.81,5
+TXN00320,11/22/2024,Europe,Electronics,Consumer,3,3520.42,2095.86,5
+TXN00407,11/23/2024,Latin America,Technology,Consumer,2,2464.04,1663.83,0
+TXN00169,11/23/2024,Europe,Technology,Consumer,10,8108.98,5388.35,20
+TXN00465,11/24/2024,Middle East,Electronics,SMB,15,14231.68,8383.52,0
+TXN00155,11/27/2024,Latin America,Electronics,SMB,1,764.74,425.77,10
+TXN00017,11/29/2024,Asia Pacific,Technology,SMB,5,6589.27,2844.25,0
+TXN00408,11/30/2024,North America,Electronics,SMB,1,469.79,189.02,5
+TXN00260,11/30/2024,Asia Pacific,Clothing,Government,2,122.23,53.56,15
+TXN00140,12/2/2024,Europe,Furniture,Government,50,34376.03,14682.04,10
+TXN00427,12/7/2024,Asia Pacific,Clothing,Government,10,1699.46,1013.55,0
+TXN00310,12/9/2024,Asia Pacific,Office Supplies,Government,2,78.03,39.56,10
+TXN00133,12/9/2024,Latin America,Office Supplies,SMB,15,1421.66,583.26,10
+TXN00020,12/10/2024,Asia Pacific,Electronics,SMB,2,853.98,428.09,15
+TXN00478,12/13/2024,Europe,Technology,Consumer,2,911.75,471.66,0
+TXN00135,12/14/2024,Asia Pacific,Electronics,SMB,1,659.14,370.76,5
+TXN00171,12/18/2024,Middle East,Clothing,Government,1,85.23,49.87,20
+TXN00092,12/19/2024,Europe,Technology,Consumer,5,11226.97,4700.76,0
+TXN00477,12/21/2024,Asia Pacific,Furniture,Consumer,2,1610.8,695.23,0
+TXN00264,12/26/2024,North America,Electronics,Government,3,5658.23,2442.7,20
+TXN00441,12/28/2024,Asia Pacific,Clothing,Consumer,10,917.86,516.04,0
+TXN00390,12/29/2024,Europe,Clothing,Enterprise,20,1435.53,694.12,0
+TXN00371,12/31/2024,Europe,Technology,Consumer,5,9483.99,6088.5,0

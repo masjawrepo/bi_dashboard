@@ -1,6 +1,6 @@
 
 # BI Dashboard
-BI Dashboard adalah aplikasi web untuk membangun dan memvisualisasikan query data dari database. Aplikasi ini memungkinkan pengguna membuat dashboard kustom dengan widget seperti chart bar, line chart, dan KPI card, serta query builder untuk filter dan agregasi data.
+Aplikasi BI Dashboard berfungsi untuk membangun dan memvisualisasikan query data dari database. Aplikasi ini memungkinkan user membuat dashboard kustom dengan widget seperti chart bar, line chart, dan KPI card, serta query builder untuk filter dan agregasi data.
 - **Live Demo**: Aplikasi telah di-deploy dan dapat diakses di [https://bi-dashboard-gamma.vercel.app/](https://bi-dashboard-gamma.vercel.app/).
 
 ## Fitur Utama

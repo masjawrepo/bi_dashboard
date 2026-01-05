@@ -23,8 +23,8 @@ export interface QueryConfig {
   groupBy?: string[];
 }*/
 
-
 export type QueryConfig = {
+  configName?: string;
   table: string;
   dimensions: string[];
   measures: {
@@ -32,5 +32,5 @@ export type QueryConfig = {
     aggregation: AggregationType;
   }[];
   groupBy: string[];
-  filters?: DateRangeFilter[]; // 👈 optional
+  filters?: DateRangeFilter[]; 
 };

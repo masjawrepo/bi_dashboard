@@ -2,6 +2,7 @@ import { buildSQL } from "../src/app/lib/sqlBuilder";
 import { QueryConfig } from "../src/app/types/query";
 
 const query: QueryConfig = {
+  configName: "Test",
   table: "transactions",
   dimensions: ["region"],
   measures: [

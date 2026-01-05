@@ -8,6 +8,7 @@ interface QueryState {
 
 export const useQueryStore = create<QueryState>(set => ({
   query: {
+    configName: "",
     table: "transactions",
     dimensions: [],
     measures: [],
